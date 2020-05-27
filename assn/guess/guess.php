@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Guessing Game for gaurav chaudhry</title>
+<title>(gaurav chaudhary)</title>
 </head>
 <body>
 <h1>Welcome to my guessing game</h1>

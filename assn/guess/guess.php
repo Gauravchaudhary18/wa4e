@@ -1,6 +1,6 @@
 <html>
 <head>
-<titles>(gaurav chaudhary)</titles>
+<title>0d970b78</title>
 </head>
 <body>
 <h1>Welcome to my guessing game</h1>
